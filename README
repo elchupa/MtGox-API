@@ -1,0 +1,15 @@
+MtGox API
+
+Requirements: 
+	Numpy
+	MatPlotlib
+	
+This API implementation provides the ability to:
+	Graph the days buy and sells for the day.
+	Pull your open orders.
+	Get the Standard deviation.
+	Get the weighted average for the days data.
+	Get the Bollinger band width and pb.
+	Get the high, low, and average for the day.
+	Get the current balances in your account.
+	
